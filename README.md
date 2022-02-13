@@ -1,3 +1,3 @@
 # Hi,I'm Abhishek
 
-I'm a student of PES University persuing Master of Computer Application
+I'm a student persuing Master of Computer Application.
