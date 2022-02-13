@@ -1,3 +1,3 @@
-# Hi,I'm Abhishek
+# Hi, I'm Abhishek
 
-I'm a student persuing Master of Computer Application.
+I am currently pursuing Masters of Computer Application. Focused on getting depth knowledge of Python and Data Structures. Aiming to solve atleast one problem per day in 2022.
