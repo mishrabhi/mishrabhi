@@ -10,6 +10,6 @@
 
 :open_file_folder: Check out my repositories below to see some of my projects and the progress I've made on my web development journey.
 
-:email: You can reach me via email at asmyselfabhishek00@gmail.com or connect with me on [LinkedIn] (https://www.linkedin.com/in/abhishek-mishra-9946a713b/)
+:email: You can reach me via [email](asmyselfabhishek00@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-9946a713b/)
 
 
