@@ -12,4 +12,6 @@
 
 :email: You can reach me via [email](asmyselfabhishek00@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-9946a713b/)
 
+:computer: My Codewar Stats: ![Codewars](https://github.r2v.ch/codewars?user=mishrabhi)
+
 
