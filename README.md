@@ -6,9 +6,9 @@
 <h1 align="center">👋 Hey There, Abhishek Mishra!</h1>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Cloud and AI Enthusiast;Always+Learning+New+Things" />
-</p>
+</p> -->
 
 <p align="center">
   <!-- Followers -->
