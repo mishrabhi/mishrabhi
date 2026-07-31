@@ -12,14 +12,14 @@
 
 <p align="center">
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/VARA4u-tech?label=Followers&style=for-the-badge&color=black&logo=github" />
+  <img src="https://img.shields.io/github/followers/mishrabhi?label=Followers&style=for-the-badge&color=black&logo=github" />
   
   <!-- Total Stars -->
   <img src="https://img.shields.io/badge/Vibe%20Coding-Active-blueviolet?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,firebase,mongodb,github,figma,postgresql," />
+  <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,express,firebase,mongodb,github,figma,prisma,postgresql" />
 </p>
 
 <div align="center">
@@ -75,7 +75,7 @@ I'm a passionate developer with a deep interest in building clean, performant, a
 | Category | Skills & Technologies |
 |---|---|
 | Frontend Development | React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux Toolkit, Material UI, Vite|
-| Backend Development | Node.js, Express.js, REST APIs, JWT Authentication, Microservices, Socket.IO |
+| Backend Development | Node.js, Express.js, REST APIs, JWT Authentication, Microservices, Redis, Socket.IO |
 | Databases & Backend Services | MongoDB, PostgreSQL, MySQL, Firebase |
 | Cloud & Deployment | AWS EC2, Docker, GitHub Actions, CI/CD, Nginx, Linux, SSH, Vercel, Render |
 | AI & Modern Teachnologies | OpenAI API, Prompt Engineering, Generative AI, AI Integrations, LLM Workflows |
