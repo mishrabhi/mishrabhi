@@ -43,17 +43,17 @@ I'm a passionate developer with a deep interest in building clean, performant, a
 <h3 align="left"><span style="color:#58A6FF;">📈 Activity Pulse & Contribution Arcade</span></h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VARA4u-tech&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com?user=mishrabhi&theme=github-dark-blue" />
 </p>
 
 <h3 align="left">👾 Contribution Arcade</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github.com/mishrabhi/mishrabhi/blob/output/pacman-contribution-graph-dark.svg?raw=true"
     alt="Pacman Contribution Graph"
   />
-</p>
+</p> -->
 
 <p align="center">
   <i>Leveling up one commit at a time 🚀</i>
@@ -95,7 +95,7 @@ I'm a passionate developer with a deep interest in building clean, performant, a
   <a href="mailto:asmyselfabhishek00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="">
+  <a href="https://asmyselfabhi.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
